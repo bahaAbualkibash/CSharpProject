@@ -1,0 +1,70 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "movie_count": 33721,
+    "limit": 1,
+    "page_number": 1,
+    "movies": [
+      {
+        "id": 34364,
+        "url": "https:\/\/yts.mx\/movies\/resort-to-love-2021",
+        "imdb_code": "tt12929990",
+        "title": "Resort to Love",
+        "title_english": "Resort to Love",
+        "title_long": "Resort to Love (2021)",
+        "slug": "resort-to-love-2021",
+        "year": 2021,
+        "rating": 0,
+        "runtime": 101,
+        "genres": [ "Comedy", "Romance" ],
+        "summary": "Erica, who ends up as the entertainment at her ex-fianc\u00e9's wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.",
+        "description_full": "Erica, who ends up as the entertainment at her ex-fianc\u00e9's wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.",
+        "synopsis": "Erica, who ends up as the entertainment at her ex-fianc\u00e9's wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.",
+        "yt_trailer_code": "6fcnG6-L4Cc",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "https:\/\/yts.mx\/assets\/images\/movies\/resort_to_love_2021\/background.jpg",
+        "background_image_original": "https:\/\/yts.mx\/assets\/images\/movies\/resort_to_love_2021\/background.jpg",
+        "small_cover_image": "https:\/\/yts.mx\/assets\/images\/movies\/resort_to_love_2021\/small-cover.jpg",
+        "medium_cover_image": "https:\/\/yts.mx\/assets\/images\/movies\/resort_to_love_2021\/medium-cover.jpg",
+        "large_cover_image": "https:\/\/yts.mx\/assets\/images\/movies\/resort_to_love_2021\/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https:\/\/yts.mx\/torrent\/download\/AE0B15B4BA7E8C094C3DC652C000CC65CB4D7E26",
+            "hash": "AE0B15B4BA7E8C094C3DC652C000CC65CB4D7E26",
+            "quality": "720p",
+            "type": "web",
+            "seeds": 0,
+            "peers": 0,
+            "size": "934.98 MB",
+            "size_bytes": 980397588,
+            "date_uploaded": "2021-07-29 10:04:34",
+            "date_uploaded_unix": 1627545874
+          },
+          {
+            "url": "https:\/\/yts.mx\/torrent\/download\/3D24BAC44C228B6C690F933145C2405FA7A07FB1",
+            "hash": "3D24BAC44C228B6C690F933145C2405FA7A07FB1",
+            "quality": "1080p",
+            "type": "web",
+            "seeds": 162,
+            "peers": 324,
+            "size": "1.88 GB",
+            "size_bytes": 2018634629,
+            "date_uploaded": "2021-07-29 11:05:07",
+            "date_uploaded_unix": 1627549507
+          }
+        ],
+        "date_uploaded": "2021-07-29 10:04:34",
+        "date_uploaded_unix": 1627545874
+      }
+    ]
+  },
+  "@meta": {
+    "server_time": 1627573727,
+    "server_timezone": "CET",
+    "api_version": 2,
+    "execution_time": "0 ms"
+  }
+}
